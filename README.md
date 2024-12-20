@@ -1,2 +1,17 @@
-# 30504
-小程序的宠物业务系统
+
+ #  30504_微信小程序“遇见宠爱”—宠物业务系统
+ 
+ #  项目资料包含：
+ *  前后端源代码+SQL脚本
+ *  配套论文+PPT+开题报告+任务书
+ *  远程调试包运行
+
+ #  项目资料获取方式
+ *  需要资料或者有任何问题的加QQ：2684634017
+
+ *  项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30504
+   
+ #  项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/30504/[springboot]%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E2%80%9C%E9%81%87%E8%A7%81%E5%AE%A0%E7%88%B1%E2%80%9D%E2%80%94%E5%AE%A0%E7%89%A9%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91(%E7%BC%96%E5%8F%B7%EF%BC%9A29525151).mp4
+          
+ *  2000+项目及演示视频 ：https://www.yuque.com/codercode/cqaxlg/wznt5a2m92ay93gz?singleDoc#lND3 《毕设资源大全》
+   
